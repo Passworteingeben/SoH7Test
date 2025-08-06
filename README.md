@@ -15,6 +15,6 @@ java -jar server.jar
 java -jar client.jar
 ```
 ## Kill process on port:
-netstat -ano | findstr : [PID]12345
+netstat -ano | findstr : 12345[PID]
 
 tasklist /FI "PID eq [PID]"
