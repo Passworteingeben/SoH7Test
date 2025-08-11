@@ -1,0 +1,13 @@
+{
+  "java.project.referencedLibraries": [
+    "/home/alexlap/javafx-sdk-21.0.8/lib/*.jar"
+  ],
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-17",
+      "path": "/usr/lib/jvm/java-17-openjdk-amd64",
+      "default": true
+    }
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive"
+}

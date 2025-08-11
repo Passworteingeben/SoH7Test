@@ -1,0 +1,15 @@
+.root {
+  -fx-font-family: "Segoe UI", sans-serif;
+  -fx-background-color: #2b2b2b;
+  -fx-text-fill: #e0e0e0;
+}
+.label {
+  -fx-text-fill: #e0e0e0;
+}
+.separator {
+  -fx-background-color: #3c3f41;
+}
+.text-field, .combo-box {
+  -fx-background-color: #3c3f41;
+  -fx-text-fill: #e0e0e0;
+}
